@@ -34,3 +34,16 @@
 .success {
   background-color: green;
 }
+
+.container-cart {
+  width: 40em;
+}
+
+.img-cart {
+  width: 4em;
+}
+
+
+.li-ingredients {
+  list-style: none;
+}
